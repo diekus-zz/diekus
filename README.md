@@ -2,7 +2,7 @@
 
 I'm a Doctor in Informatics and Computer Engineer from Costa Rica.
 
-My tasks are related with bringing PWA technology to the masses, and enhancing the web platform.
+My tasks are related with bringing PWA technology to the masses and enhancing the web platform.
 
 - 🔭 I’m currently working as a Product Manager for Samsung.
 - 💬 Ask me about PWAs, WebXR and gadgets!
